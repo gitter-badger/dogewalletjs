@@ -1,8 +1,6 @@
-var Bitcoin = require(__dirname+"/build/bitcoinjs.js");
-
+var Bitcoin = require(__dirname+"/lib/bitcoinjs.js");
 
 var key = new Bitcoin.ECKey();
-
 
 var wallet = {
     address: key.getBitcoinAddress().toString(),
