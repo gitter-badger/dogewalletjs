@@ -21,9 +21,9 @@ console.log("VERIFY",verify);
 
 /* OUTPUT OF THIS FILE SHOULD LOOK LIKE THIS (with different data) but "VERIFY true" shoult be the same
 
-{ address: 'DGid2aPnJfr6nTATWwrSgeYxXoAmbDNVZP',
-  privateKey: '5K4VTAMb94fWWZiMfVWyfAWZ4FVAG4essfd3D3xQxuP7vosqLqm' }
-SIGN GxbwvVRnfQp3tw6puBr1EXxom/R/W8EHU+P1rE9ds74SnpisA0aXU6q2jnD5GH9csQYzQDol8suMZF9FgngJptw=
+{ getBitcoinAddress: 'DKjd5Y8P8HpKYChZyp3HrqbpoZ3zmQPMqK',
+  getExportedPrivateKey: '5J3VM5bnkLXSb5BC9LYztrmKiCRBzTiDtkJBDEYDfWfw5irZSHH' }
+SIGN HOcyy273ewLrSKaWWkDvo+VebuqkXQVtAGPaD82+18iktTWjIJuIw+IkUegbA0m774jj+tqWAsN3Ud49Qvq78wU=
 VERIFY true
 
 */
